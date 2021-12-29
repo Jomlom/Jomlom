@@ -2,4 +2,4 @@
 
 - i do python + java + C#
 - and art
-- discord is Jonty#0001
+- discord is Jonty#1000
