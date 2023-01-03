@@ -2,4 +2,5 @@
 
 - i do python + java + C#
 - i do art and modelling too
-- discord is Jonty#0297
+- working with a friend in our organisation 
+- just for fun :)
