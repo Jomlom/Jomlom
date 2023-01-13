@@ -1,6 +1,6 @@
 ### Hi
 
-- i do python + java + C#
+- i program in python and C#
 - i do art and modelling too
-- working with a friend in our organisation 
+- working in 2 small organisations with friends 
 - just for fun :)
