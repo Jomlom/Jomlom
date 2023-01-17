@@ -1,6 +1,3 @@
-### Hi
+16y/o student working in 2 small organisations mostly for fun with friends; I program in python and C#, and i do art and modelling :)
 
-- i program in python and C#
-- i do art and modelling too
-- working in 2 small organisations with friends 
-- just for fun :)
+https://github-readme-streak-stats.herokuapp.com/?user=Jomlom
