@@ -1,4 +1,4 @@
-17y/o student working in 2 small organisations mostly for fun with friends;
+18y/o student working in some organisations mostly for fun with friends;
 
 I program in python, C# and some java - i also do art and modelling;
 
