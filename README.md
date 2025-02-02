@@ -1,6 +1,8 @@
 18y/o student working in some organisations mostly for fun with friends;
 
-I program in python, C# and some java - i also do art and modelling;
+I do some python, C# and java - i also like pixel art and modelling;
+
+Currently learning Godot;
 
 Most of my work is private;
 
