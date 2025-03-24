@@ -2,7 +2,7 @@
 
 I do some python, C# and java - i also like pixel art and modelling;
 
-Currently learning Godot;
+Currently learning Godot & Minecraft modding;
 
 Most of my work is private;
 
