@@ -1,4 +1,4 @@
-18y/o student working in some organisations mostly for fun with friends;
+19y/o student working in some organisations mostly for fun with friends;
 
 I've done some python, C# and java - I also like pixel art;
 
