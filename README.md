@@ -1,4 +1,4 @@
-19y/o Physics Student
+19y/o Mathematics & Physics Student
 
 Mostly working in private repo personal projects
 
