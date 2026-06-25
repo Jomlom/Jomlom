@@ -2,5 +2,4 @@
 
 Mostly working in private repo personal projects
 
-Largely busy with uni - sorry if you use my minecraft mods
-
+[jontyali.com](https://jontyali.com/)
