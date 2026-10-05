@@ -6,3 +6,5 @@ Public email:
 ```text
 contact@jontyali.com
 ```
+
+Most repos/work is private
